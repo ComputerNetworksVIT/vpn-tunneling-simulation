@@ -103,23 +103,12 @@ python sniffer.py
 - Cybersecurity demonstration  
 - CN laboratories & networking projects  
 - Encrypted communication research  
-
-## ✅ Future Enhancements
-- RSA-based automatic key exchange  
-- File transfer encryption  
-- Group chat support  
-- Advanced GUI (PyQt or web interface)  
-- Database storage of encrypted message history  
-
+  
 ## ✅ Project Status
 ✅ Fully Working  
 ✅ Tested across devices  
 ✅ Demonstrates encryption, routing, and network-level security  
 
 ## ✅ Author
-Your Name  
-B.Tech CSE  
-Computer Networks Semester Project  
-
-## ✅ License
-This project is for academic and educational purposes.
+Aatman Doshi - 24BCE1285
+Harshit Verma - 24BCE1663 
