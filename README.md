@@ -2,7 +2,7 @@
 
 This project implements a secure, end-to-end encrypted messaging system using Python sockets, VPN-style tunneling concepts, GUI clients, a relay server, a hacker/MITM simulation, and a packet sniffer. It demonstrates how encrypted communication protects users from packet sniffing and interception, aligning with core topics of the Computer Networks course.
 
-## 🔐 Project Overview
+##  Project Overview
 The system enables two clients to communicate securely over a TCP network using Fernet (AES + HMAC) encryption. A relay server forwards encrypted packets without decrypting them. A hacker module and a packet sniffer attempt to capture messages but only receive ciphertext, proving end-to-end confidentiality. This project visually demonstrates VPN tunneling, encrypted communication, and real-world network attack scenarios.
 
 ## ✅ Features
